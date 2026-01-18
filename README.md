@@ -76,9 +76,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatidzufri-lab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatidzufri-lab&show_icons=true&theme=dracula&hide_border=true&locale=ru&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatidzufri-lab&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatidzufri-lab&layout=compact&theme=dracula&hide_border=true&locale=ru)
 
 </div>
 ---
