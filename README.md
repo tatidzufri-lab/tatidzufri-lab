@@ -75,14 +75,12 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatidzufri-lab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatidzufri-lab&layout=compact&theme=tokyonight&hide_border=true&locale=ru&langs_count=8"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tatidzufri-lab&theme=tokyonight&hide_border=true&locale=ru)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatidzufri-lab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatidzufri-lab&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
 
 </div>
-
 ---
 
 ## 📫 Контакты
