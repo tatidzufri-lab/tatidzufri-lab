@@ -44,21 +44,22 @@
   Веб-сервис: по URL вытягивает текст страницы, анализирует его и через нейросеть предлагает улучшения — переформулировки, тон, структуру, идеи блоков и заголовков. По сути — личный редактор для лендингов и статей с точечными рекомендациями.
   **Стек**: Python · FastAPI · OpenAI GPT-4o-mini · httpx · BeautifulSoup4 · Pydantic · Vanilla JS · CSS3
 
-- **Много-AI Telegram-бот ассистент**  
-  Telegram-бот, который работает сразу с несколькими AI: OpenAI, GigaChat и локальными моделями через TITLE API. Поддерживает диалоги с памятью, работу с файлами, промпт-сценарии, конфигурируется через .env. [file:54]  
-  **Стек**: Python · python-telegram-bot · OpenAI API (Assistant/Responses) · GigaChat API · LangChain · python-dotenv · logging
-
 - **Генератор отчётов: данные → PDF и PPTX**  
   Приложение берёт данные из Excel/CSV/JSON, обрабатывает их и автоматически собирает отчёты в PDF и презентации PowerPoint. Готовые шаблоны, графики, таблицы, метрики — от сырых данных до клиентской презентации за один прогон.
   **Стек**: Python · Pandas · NumPy · Matplotlib · Jinja2 · WeasyPrint · python-pptx · Streamlit
 
 - **UniversalScraper — скрейпер + Telegram-бот**  
   Инструмент для сбора данных с сайтов: парсит страницы, чистит данные, сохраняет в CSV/HTML/PDF и отправляет результаты через Telegram-бота. Модули для скрейпинга, анализа и репортинга + CLI и автоматизация.  
-  **Стек**: Python · Requests · BeautifulSoup4 · Pandas · NumPy · Matplotlib · Jinja2 · WeasyPrint · python-telegram-bot [file:55]
+  **Стек**: Python · Requests · BeautifulSoup4 · Pandas · NumPy · Matplotlib · Jinja2 · WeasyPrint · python-telegram-bot
 
 - **RAG-платформа OpenAI + GigaChat**  
   Система Retrieval-Augmented Generation: индексирует документы, достаёт релевантные фрагменты и комбинирует с генерацией текста. ChromaDB и SQLite, sentence-transformers, качество ответов через RAGAS (~0.9 на демо). 
-  **Стек**: Python 3.11 · ChromaDB · OpenAI API · GigaChat · sentence-transformers · SQLite · LangChain · RAGAS · numpy · pandas · tiktoken [file:53]
+  **Стек**: Python 3.11 · ChromaDB · OpenAI API · GigaChat · sentence-transformers · SQLite · LangChain · RAGAS · numpy · pandas · tiktoken
+
+  - **Vibe Assistant — генератор контента в нужном стиле**  
+  Инструмент для создания текстов в заданном «вайбе» (настроении/стиле): посты в Instagram, Stories, email-рассылки, Telegram. По теме и тону генерирует готовые тексты, сохраняет в MarkDown документе, поддерживает несколько AI-моделей (OpenAI GPT-4o, DeepSeek R1 через OpenRouter), есть веб-интерфейс на Streamlit и CLI.  
+  **Стек**: Python · OpenAI GPT-4o · OpenRouter DeepSeek R1 · Streamlit · Rich · python-dotenv · md-генерация.
+
 
 ---
 
