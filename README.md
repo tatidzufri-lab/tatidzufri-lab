@@ -14,7 +14,8 @@ Telegram-боты с языковыми моделями, ассистенты �
 
 | Проект | Что делает |
 |---|---|
-| [kp-generator](https://github.com/tatidzufri-lab/kp-generator) | Коммерческое предложение в PDF по брифу: текст пишет модель, цену и сроки считает код |
+| [kp-generator](https://github.com/tatidzufri-lab/kp-generator) | Коммерческое предложение в PDF по брифу, [демо](https://kp.tatidzufri.com): текст пишет модель, цену и сроки считает код |
+| [AI-Assistant-for-Retreat-Participant](https://github.com/tatidzufri-lab/AI-Assistant-for-Retreat-Participant) | «Куратор» на n8n и Qdrant: сопровождает участницу ретрита от оплаты до жизни после |
 | [AI_review_analyzer](https://github.com/tatidzufri-lab/AI_review_analyzer) | Отвечает на отзывы на сайте и присылает уведомления в Telegram |
 | [Telegram_bot_for_signing_up_for_the_retreat](https://github.com/tatidzufri-lab/Telegram_bot_for_signing_up_for_the_retreat) | AI-квалификатор лидов «Лея»: живой диалог вместо анкеты и готовая заявка куратору |
 | [AI_dialog_assistant](https://github.com/tatidzufri-lab/AI_dialog_assistant) | AI-проводница: рефлексивный разговор и подбор формата ретрита |
